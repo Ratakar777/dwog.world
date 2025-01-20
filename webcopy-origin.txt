@@ -1,0 +1,460 @@
+Uri: https://dwog.world/
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\index.htm
+Content Type: text/html
+
+Uri: https://dwog.world/comments/feed/
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dwog.world/feed/
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-pulse-grow.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/jello.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\jello.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/rotateIn.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\rotateIn.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/shake.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\shake.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\slideInUp.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/tada.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\tada.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInRight.min.css?ver=3.26.5
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\plugins\elementor\assets\lib\animations\styles\zoomInRight.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.2.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.2.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/themes/hello-elementor/style.min.css?ver=3.2.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/themes/hello-elementor/theme.min.css?ver=3.2.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/Baha-Men-Who-Let-The-Dogs-Out-Official-Video-mp3cut.net_.mp3
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\Baha-Men-Who-Let-The-Dogs-Out-Official-Video-mp3cut.net_.mp3
+Content Type: audio/mpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-150x150.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-180x180.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-180x180.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-192x192.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-192x192.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-270x270.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-270x270.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-300x300.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1-32x32.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1-32x32.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/cropped-pixelcut-export-scaled-1.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\cropped-pixelcut-export-scaled-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-1.mp4
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-1.mp4
+Content Type: video/mp4
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-10-e1730751445366-1024x319.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-10-e1730751445366-1024x319.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-10-e1730751445366-1536x478.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-10-e1730751445366-1536x478.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-10-e1730751445366-300x93.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-10-e1730751445366-300x93.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-10-e1730751445366-768x239.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-10-e1730751445366-768x239.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-10-e1730751445366.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-10-e1730751445366.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-11-e1730751602171-1024x141.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-11-e1730751602171-1024x141.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-11-e1730751602171-300x41.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-11-e1730751602171-300x41.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-11-e1730751602171-768x106.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-11-e1730751602171-768x106.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-11-e1730751602171.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-11-e1730751602171.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-12.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-12.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-2.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-2.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-3-e1730749985990-1024x315.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-3-e1730749985990-1024x315.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-3-e1730749985990-1536x473.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-3-e1730749985990-1536x473.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-3-e1730749985990-300x92.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-3-e1730749985990-300x92.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-3-e1730749985990-768x236.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-3-e1730749985990-768x236.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-3-e1730749985990.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-3-e1730749985990.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-7-e1730751068488-1024x615.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-7-e1730751068488-1024x615.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-7-e1730751068488-300x180.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-7-e1730751068488-300x180.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-7-e1730751068488-768x461.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-7-e1730751068488-768x461.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-7-e1730751068488.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-7-e1730751068488.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-8-e1730751225262-1024x115.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-8-e1730751225262-1024x115.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-8-e1730751225262-1536x173.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-8-e1730751225262-1536x173.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-8-e1730751225262-300x34.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-8-e1730751225262-300x34.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-8-e1730751225262-768x86.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-8-e1730751225262-768x86.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-8-e1730751225262.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-8-e1730751225262.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-9-e1730751310157-1024x142.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-9-e1730751310157-1024x142.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-9-e1730751310157-1536x213.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-9-e1730751310157-1536x213.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-9-e1730751310157-300x42.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-9-e1730751310157-300x42.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-9-e1730751310157-768x106.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-9-e1730751310157-768x106.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/ITS-IS-A-DWOF-WORLD-9-e1730751310157.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\ITS-IS-A-DWOF-WORLD-9-e1730751310157.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-1024x1024.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-1024x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-150x150.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-1536x1536.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-1536x1536.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-2048x2048.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-2048x2048.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-300x300.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/pixelcut-export-768x768.jpeg
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\pixelcut-export-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/Untitled-design-13.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\Untitled-design-13.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/Untitled-design-9-e1730749855685-300x210.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\Untitled-design-9-e1730749855685-300x210.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/Untitled-design-9-e1730749855685-768x536.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\Untitled-design-9-e1730749855685-768x536.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/2024/11/Untitled-design-9-e1730749855685.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\2024\11\Untitled-design-9-e1730749855685.png
+Content Type: image/png
+
+Uri: https://dwog.world/wp-content/uploads/elementor/css/post-12.css?ver=1737001847
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-content/uploads/elementor/css/post-6.css?ver=1737001847
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://dwog.world/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://dwog.world/wp-json/
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dwog.world/wp-json/oembed/1.0/embed?url=https:%2F%2Fdwog.world%2F
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dwog.world/wp-json/oembed/1.0/embed?url=https:%2F%2Fdwog.world%2F&format=xml
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dwog.world/wp-json/wp/v2/pages/12
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://dwog.world/xmlrpc.php?rsd
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=Slackey&display=swap
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Slackey:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/slackey/v28/N0bV2SdQO-5yM0-dGlNQIQ.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\slackey\v28\N0bV2SdQO-5yM0-dGlNQIQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/slackey/v28/N0bV2SdQO-5yM0-dKlQ.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\dwog.world\s\slackey\v28\N0bV2SdQO-5yM0-dKlQ.ttf
+Content Type: font/ttf
+
